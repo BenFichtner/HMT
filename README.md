@@ -1,7 +1,6 @@
-# HMT
-HMT is a Headless Managment Tool written in C++
+# HMT - A Headless Managment Tool written in C++
 
-HMM (Headless Managment Tool) is a basic system managment tool written initially for use on a Raspberry Pi running Ubuntu.
+HMT (Headless Managment Tool) is a basic system managment tool written initially for use on a Raspberry Pi running Ubuntu.
 
 It is used to administer Network Attached Storage (NAS) shared using SAMBA.
 
